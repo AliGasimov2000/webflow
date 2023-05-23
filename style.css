@@ -30,4 +30,14 @@ body {
   background-color: #6291d8;
   color: white;
   font-size: 20px;
+}
+#web .minibox2 {
+  margin-top: 20px;
+  text-align: center;
+}
+#web .minibox2 h2 {
+  font-size: 19px;
+  border: 2px solid #252525;
+  padding: 10px 70px;
+  margin-top: 7px;
 }/*# sourceMappingURL=style.css.map */
