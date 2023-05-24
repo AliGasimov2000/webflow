@@ -38,6 +38,7 @@ body {
 #web .minibox2 h2 {
   font-size: 19px;
   border: 2px solid #252525;
+  border-radius: 15px;
   padding: 10px 70px;
   margin-top: 7px;
 }/*# sourceMappingURL=style.css.map */
