@@ -7,25 +7,26 @@ body {
   padding: 70px 0;
 }
 #web .box {
-  padding: 10px;
-  border-radius: 30px;
+  padding: 20px;
+  border-radius: 20px;
   background-color: #A2D2FF;
   width: 280px;
-  height: 220px;
+  height: 225px;
 }
 #web .box h1 {
   font-weight: 700;
-  font-size: 60px;
+  font-size: 42px;
   color: #ffffff;
 }
 #web .box input {
   border: 2px solid #6291d8;
-  border-radius: 50px;
-  margin: 30px 0;
+  border-radius: 20px;
+  margin: 22px 0;
+  padding: 15px 25px;
 }
 #web .box .btn {
   border: 2px;
-  padding: 5px 30px;
+  padding: 5px 20px;
   border-radius: 20px;
   background-color: white;
   color: #6291d8;
@@ -38,7 +39,7 @@ body {
 #web .minibox2 h2 {
   font-size: 19px;
   border: 2px solid #252525;
-  border-radius: 15px;
+  border-radius: 20px;
   padding: 10px 70px;
-  margin-top: 7px;
+  margin-top: 10px;
 }/*# sourceMappingURL=style.css.map */
